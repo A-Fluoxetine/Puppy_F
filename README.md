@@ -1,2 +1,3 @@
 # Puppy_F
-Puppu-F Soothing quadruped robot
+**Puppu-F Soothing quadruped robot**, named after *fluoxetine*, also known as ___Prozac___, is the most widely used antidepressant medication. In order to cope with the aging population in the future, with the initial idea of **"conducting research on home environment assisted devices for the daily life of the elderly"** and "even middle school students can easily understand and complete replicas", we tried to start from scratch and hand massage a robotic dog. The 3D model was initially borrowed from Pineapple Dog, using the main control Raspberry Pi 4B+ROS noetic+Ubuntu 20.04 os. 
+If you like this project, you can also find me through my email or Bilibili account*岩烧起司*.
