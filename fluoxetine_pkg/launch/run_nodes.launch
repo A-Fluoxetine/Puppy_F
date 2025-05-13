@@ -1,0 +1,6 @@
+<launch>
+    <!--pkg是包的名称，type是可执行文件的名称，需要带上文件类型，例如a.py；name是启动的节点的名字，会覆盖可执行文件的名称；output是结果的输出方式，这里一般选择终端-->
+    <node pkg="fluoxetine_pkg" type="main.py" name="main" output="screen"/>
+    <node pkg="fluoxetine_pkg" type="servoIK.py" name="servoIK" output="screen"/>
+    <node pkg="fluoxetine_pkg" type="servoDrive.py" name="servoDrive" output="screen"/>
+</launch>
